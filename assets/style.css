@@ -1,0 +1,148 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+
+    }
+
+.alert-danger {
+    padding: 20px;
+    background-color: #fa837b; /* Red */
+    color: black;
+    margin-bottom: 15px;
+    }
+
+.alert-success {
+    padding: 20px;
+    background-color: #76f086; /* Red */
+    color: black;
+    margin-bottom: 15px;
+    }
+
+    /* The close button */
+    .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    }
+    
+    /* When moving the mouse over the close button */
+    .closebtn:hover {
+    color: black;
+    }
+
+    .column {
+    display: inline-block;
+    width: 45%;
+    height: auto;
+    text-align: center;
+    border: 1px solid black;
+    vertical-align: middle;
+    }
+    
+    .navbar-header{
+        margin-left: 0;
+    }
+
+    .nav-link{
+        z-index: 99;
+    }
+
+    .topdiv{
+        position: relative; 
+        z-index: 999;
+    }
+
+    .bottomdiv{
+        position: relative; 
+        min-height: 100vh;
+    }
+
+    .home-btn{
+        margin-right: 20px;
+    }
+
+    .register-btn{
+        margin-right: 20px;
+    }
+
+    .addTodo-btn{
+        margin-right: 20px;
+    }
+
+    .custom-btn{
+        color:  black;
+        font-size: 15px;
+        text-decoration: none;
+    }
+
+    .your-todo{
+        color: white;
+    }
+
+    .task-list{
+        display: inline-block;
+        padding-right: 15px;
+        vertical-align: middle;
+    }
+
+
+    .view-btn{
+        margin-right: 2px;
+    }
+
+
+    .dashboard-list{
+        padding-top: 20px;
+        border-collapse: collapse;
+        width: 100%;
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        height: 420px;
+        vertical-align: middle;
+    }
+
+    .view-item{
+        padding-top: 10px;
+        border-collapse: collapse;
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100px;
+    }
+
+    th, td {
+        font-size: 25px;
+      }
+
+    div.container {
+        position: relative; 
+    }
+
+    div.container table {
+        margin-top: 280px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) }
+
+
+
+
+
+    
+
+    
+    
