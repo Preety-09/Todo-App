@@ -17,4 +17,10 @@ fileignoreconfig:
   checksum: dbb0660345574edff41ed064cdcd4546097b9cde0c3af0a284b691f8f4885f98
 - filename: views/view.ejs
   checksum: b547ea5afbbc17a27b7878c5000ae44e4f7e28eac46a8adfd97a0911596e145c
+- filename: passportConfig.js
+  checksum: 73548ed3f141626b500f31a10ef449291df2b28ddb41309067d2bba8afa231f0
+- filename: package-lock.json
+  checksum: 6e6e37f0bb0997b31c05ae7c576fe18ab6ea2778be7bb8f6927ba73bcf5ed14f
+- filename: package.json
+  checksum: c6ae9663262308974b665447860d855166aabab7b262cd989457f9ebf2ee2520
 version: ""
