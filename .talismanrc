@@ -1,0 +1,20 @@
+fileignoreconfig:
+- filename: views/index.ejs
+  checksum: 81be8d7acf49cce9553b9a1f564996a049c1401373524b0377fe8e7fc4968c67
+- filename: views/addTodo.ejs
+  checksum: e05af43384e930c33cbce1d2a45e029fc01ea9950776afe7948f0e519da40ced
+- filename: views/edit.ejs
+  checksum: 55e8ae3b9acdab5f0bbc743a6dc1f927f0a35b0a0a6ebf598bf1501ac1b2bb03
+- filename: views/register.ejs
+  checksum: e72c33b996e072d2cc050e4be1bcf34c9a6f13d1b9a9a91a0efdfb34117ead4c
+- filename: views/dashboard.ejs
+  checksum: 99703f4221eb4ec6bc223065e87acc54dfd84e6e791579fcb637960cc2595e00
+- filename: views/login.ejs
+  checksum: 577695be89c34223fc0e22668de4e1f4f9d119380e24f8113a4ea1393f8109b2
+- filename: views/editItems.ejs
+  checksum: c7069784c243dd58fbb599628b2123d627b06c31139fc64c1a70a09774c562de
+- filename: views/addTodoItem.ejs
+  checksum: dbb0660345574edff41ed064cdcd4546097b9cde0c3af0a284b691f8f4885f98
+- filename: views/view.ejs
+  checksum: b547ea5afbbc17a27b7878c5000ae44e4f7e28eac46a8adfd97a0911596e145c
+version: ""
